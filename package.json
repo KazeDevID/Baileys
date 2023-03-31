@@ -8,12 +8,12 @@
   "keywords": [
     "whatsapp",
     "js-whatsapp",
-    "whatsapp-api",
+    "whatsapp-api", 
     "whatsapp-web",
-    "whatsapp",
-    "whatsapp-chat",
-    "whatsapp-group",
-    "automation",
+    "whatsapp", 
+    "whatsapp-chat", 
+    "whatsapp-group", 
+    "automation", 
     "multi-device"
   ],
   "scripts": {
