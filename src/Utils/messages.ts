@@ -17,7 +17,7 @@ import {
 	MessageType,
 	MessageUserReceipt,
 	WAMediaUpload,
-	WAMessage,
+	WAMessage, 
 	WAMessageContent,
 	WAMessageStatus,
 	WAProto,
